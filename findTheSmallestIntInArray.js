@@ -1,0 +1,5 @@
+class SmallestIntergerFinder{
+	findSmallestInt(args) {
+		
+	}
+}
